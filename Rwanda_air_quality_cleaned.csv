@@ -1,0 +1,23 @@
+location_id,location_name,parameter,value,unit,datetimeUtc,datetimeLocal,timezone,latitude,longitude,country_iso,isMobile,isMonitor,owner_name,provider,date,year,month,day,hour
+313953,Kigali,pm25,19.1,µg/m³,2025-11-26 01:00:00+00:00,2025-11-26 03:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,3
+313953,Kigali,pm25,25.3,µg/m³,2025-11-26 02:00:00+00:00,2025-11-26 04:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,4
+313953,Kigali,pm25,27.4,µg/m³,2025-11-26 03:00:00+00:00,2025-11-26 05:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,5
+313953,Kigali,pm25,19.6,µg/m³,2025-11-26 04:00:00+00:00,2025-11-26 06:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,6
+313953,Kigali,pm25,29.0,µg/m³,2025-11-26 05:00:00+00:00,2025-11-26 07:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,7
+313953,Kigali,pm25,26.7,µg/m³,2025-11-26 06:00:00+00:00,2025-11-26 08:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,8
+313953,Kigali,pm25,27.8,µg/m³,2025-11-26 07:00:00+00:00,2025-11-26 09:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,9
+313953,Kigali,pm25,22.5,µg/m³,2025-11-26 08:00:00+00:00,2025-11-26 10:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,10
+313953,Kigali,pm25,19.2,µg/m³,2025-11-26 09:00:00+00:00,2025-11-26 11:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,11
+313953,Kigali,pm25,18.1,µg/m³,2025-11-26 10:00:00+00:00,2025-11-26 12:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,12
+313953,Kigali,pm25,16.5,µg/m³,2025-11-26 11:00:00+00:00,2025-11-26 13:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,13
+313953,Kigali,pm25,16.9,µg/m³,2025-11-26 12:00:00+00:00,2025-11-26 14:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,14
+313953,Kigali,pm25,17.4,µg/m³,2025-11-26 13:00:00+00:00,2025-11-26 15:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,15
+313953,Kigali,pm25,12.8,µg/m³,2025-11-26 14:00:00+00:00,2025-11-26 16:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,16
+313953,Kigali,pm25,16.1,µg/m³,2025-11-26 15:00:00+00:00,2025-11-26 17:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,17
+313953,Kigali,pm25,20.0,µg/m³,2025-11-26 16:00:00+00:00,2025-11-26 18:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,18
+313953,Kigali,pm25,19.1,µg/m³,2025-11-26 17:00:00+00:00,2025-11-26 19:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,19
+313953,Kigali,pm25,22.3,µg/m³,2025-11-26 18:00:00+00:00,2025-11-26 20:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,20
+313953,Kigali,pm25,19.2,µg/m³,2025-11-26 19:00:00+00:00,2025-11-26 21:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,21
+313953,Kigali,pm25,33.4,µg/m³,2025-11-26 20:00:00+00:00,2025-11-26 22:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,22
+313953,Kigali,pm25,21.0,µg/m³,2025-11-26 21:00:00+00:00,2025-11-26 23:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-26,2025,11,26,23
+313953,Kigali,pm25,18.5,µg/m³,2025-11-26 22:00:00+00:00,2025-11-27 00:00:00+02:00,Africa/Kigali,-1.936231,30.077952,RW,False,False,Unknown Governmental Organization,AirNow,2025-11-27,2025,11,27,0
